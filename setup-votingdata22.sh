@@ -12,7 +12,7 @@ dpkg -i libicu60_60.2-3ubuntu3_amd64.deb
 dpkg -i  liburcu6_0.11.1-2_amd64.deb 
 dpkg -i  liblttng-ust-ctl4_2.11.0-1_amd64.deb
 dpkg -i liblttng-ust0_2.11.0-1_amd64.deb
-dpkg -i libssl1.1_1.1.1f-1ubuntu2.23_amd64.deb
+dpkg -i libssl1.1_1.1.1f-1ubuntu2.24_amd64.deb
 add-apt-repository universe
 apt-get -y install apt-transport-https
 apt-get -y update
